@@ -1,4 +1,4 @@
-import guid from "./utils/guid.js";
+import guid from "./utils/guid";
 import errors from "./errors/index.js";
 import Live from "./classes/live.js";
 import Socket from "./classes/socket.js";
